@@ -1,0 +1,12 @@
+Data/pb_100rnd0100.dat & $\substack{ 372.0 \\ 372 \\ 372 | 372 }$ & \\ \hline
+Data/pb_100rnd0300.dat & $\substack{ 203.0 \\ 203 \\ 203 | 203 }$ & \\ \hline
+Data/pb_100rnd0900.dat & $\substack{ 463.0 \\ 463 \\ 463 | 463 }$ & \\ \hline
+Data/pb_200rnd0100.dat & $\substack{ 410.62 \\ 411 \\ 404 | 416 }$ & \\ \hline
+Data/pb_200rnd0300.dat & $\substack{ 716.59 \\ 718 \\ 708 | 722 }$ & \\ \hline
+Data/pb_200rnd0500.dat & $\substack{ 182.59 \\ 184 \\ 173 | 184 }$ & \\ \hline
+Data/pb_500rnd0100.dat & $\substack{ 316.55 \\ 317 \\ 311 | 319 }$ & \\ \hline
+Data/pb_500rnd0300.dat & $\substack{ 745.24 \\ 746 \\ 736 | 751 }$ & \\ \hline
+Data/pb_500rnd0500.dat & $\substack{ 122.0 \\ 122 \\ 122 | 122 }$ & \\ \hline
+Data/pb_1000rnd0300.dat & $\substack{ 605.45 \\ 605 \\ 596 | 619 }$ & \\ \hline
+Data/pb_1000rnd0500.dat & $\substack{ 217.86 \\ 222 \\ 211 | 222 }$ & \\ \hline
+Data/pb_2000rnd0300.dat & 

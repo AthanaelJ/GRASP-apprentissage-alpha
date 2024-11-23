@@ -1,0 +1,15 @@
+Data/strip20_1 & $\substack{ 20.07 \\ 20 \\ 20 | 21 }$ & \\ \hline
+Data/strip20_2 & $\substack{ 21.52 \\ 22 \\ 21 | 22 }$ & \\ \hline
+Data/strip20_3 & $\substack{ 20.17 \\ 20 \\ 20 | 21 }$ & \\ \hline
+Data/strip40_1 & $\substack{ 16.0 \\ 16 \\ 16 | 16 }$ & \\ \hline
+Data/strip40_2 & $\substack{ 16.0 \\ 16 \\ 16 | 16 }$ & \\ \hline
+Data/strip40_3 & $\substack{ 16.0 \\ 16 \\ 16 | 16 }$ & \\ \hline
+Data/strip60_1 & $\substack{ 31.76 \\ 32 \\ 31 | 32 }$ & \\ \hline
+Data/strip60_2 & $\substack{ 32.24 \\ 32 \\ 32 | 33 }$ & \\ \hline
+Data/strip60_3 & $\substack{ 31.9 \\ 32 \\ 31 | 32 }$ & \\ \hline
+Data/strip80_1 & $\substack{ 127.45 \\ 128 \\ 126 | 128 }$ & \\ \hline
+Data/strip80_2 & $\substack{ 127.79 \\ 128 \\ 126 | 130 }$ & \\ \hline
+Data/strip80_3 & $\substack{ 127.97 \\ 128 \\ 126 | 129 }$ & \\ \hline
+Data/strip160_1 & $\substack{ 253.34 \\ 253 \\ 251 | 257 }$ & \\ \hline
+Data/strip160_2 & $\substack{ 252.62 \\ 253 \\ 248 | 255 }$ & \\ \hline
+Data/strip160_3 & $\substack{ 253.1 \\ 253 \\ 250 | 257 }$ & \\ \hline

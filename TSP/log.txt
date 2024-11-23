@@ -1,0 +1,1 @@
+Data/bayg29.tsp & $\substack{ 1610.0 \\ 1610 \\ 1610 | 1610 }$ & \\ \hline
